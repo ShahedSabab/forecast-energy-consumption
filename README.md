@@ -3,11 +3,12 @@ Forecasting energy consumption can be crucial to have a sense of how much energy
 
 The following models are trained:
 
-• PROPHET with & without hoildays. (R2: 0.84, MAPE: 3.5%) <br>
+• PROPHET with & without holidays. (R2: 0.84, MAPE: 3.5%) <br>
 • Seasonal ARIMA - SARIMAX. (R2: 0.77, MAPE: 4%) <br>
 • LSTM. (R2: 0.60, MAPE: 6.2%)<br>
-
 
 <img src="graph.PNG" width="80%">
 <img src="performance.PNG" width="50%">
 
+# How to run:
+Please check the Forecast energy consumption.ipynb file for the detailed analysis.
