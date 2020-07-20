@@ -11,4 +11,4 @@ The following models are trained:
 <img src="performance.PNG" width="50%">
 
 # How to run:
-Please check the Forecast energy consumption.ipynb file for the detailed analysis.
+Please check the Forecast energy consumption.ipynb file for the detailed analysis. Check the PJME_hourly.csv file for the data.
